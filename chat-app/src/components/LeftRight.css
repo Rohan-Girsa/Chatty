@@ -1,0 +1,11 @@
+.right {
+  float: right;
+  background-color: rgb(220 252 231 / var(--tw-bg-opacity));
+  text-align: right;
+}
+
+.left {
+  float: left;
+  text-align: left;
+  background-color: rgb(254 252 232 / var(--tw-bg-opacity));
+}
